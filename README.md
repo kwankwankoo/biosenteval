@@ -1,4 +1,4 @@
-# biosenteval
+# Biosenteval
 
 一个中文医学文本句向量评估工具
 
